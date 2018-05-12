@@ -1,0 +1,28 @@
+_repo: A-Book-About-Lawyers_27785
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jeaffreson, John Cordy
+    alias: Jeaffreson, J. C. (John Cordy)
+    birthdate: 1831
+    deathdate: 1901
+    gutenberg_agent_id: '32908'
+    url: http://www.gutenberg.org/2009/agents/32908
+description: ''
+gutenberg_bookshelf: British Law
+gutenberg_issued: '2009-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Lawyers -- Great Britain -- Anecdotes'
+title: A Book About Lawyers
+url: http://www.gutenberg.org/ebooks/27785
